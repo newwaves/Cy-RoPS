@@ -1,6 +1,4 @@
 
-
-
 # Cy-RoPS
 
 This code implements localization algorithm in underground garages with Cy-RoPS feature.
@@ -27,6 +25,7 @@ In this paper, we propose a cylinder rotational projection statistics feature (C
 
 	RecoAndDetectDemo.m	-	Demo for detecting pillars and wall in an underground garage.
 
+#  Affiliation
 
 Emails : newwaves@163.com
 
