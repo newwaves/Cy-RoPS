@@ -5,11 +5,12 @@ This code implements localization algorithm in underground garages with Cy-RoPS 
 
 For more detailed information please refer to the following paper:
 
-	Zhongxing Tao, Jianru Xue, Di Wang, Shuyang Zhang, Dixiao Cui, and Shaoyi Du, "Accurate Localization in Underground Garages via Cylinder Feature based Map Matching,” in Proc. IEEE Intelligent Vehicles Symposium (IV), 2018.
+> Zhongxing Tao, Jianru Xue, Di Wang, Shuyang Zhang, Dixiao Cui, and Shaoyi Du, "Accurate Localization in Underground Garages via Cylinder Feature based Map Matching,” in Proc. IEEE Intelligent Vehicles Symposium (IV), 2018.
+
 
 In this paper, we propose a cylinder rotational projection statistics feature (Cy-RoPS), which is motivated by local surface feature based 3D object recognition method - RoPS presented by Yulan Guo:
 
-	Y. Guo, F. A. Sohel, M. Bennamoun, M. Lu, and J. Wan, “Rotational projection statistics for 3d local surface description and object recognition,”International Journal of Computer Vision, vol. 105, no. 1, pp. 63–86, 2013.
+> Y. Guo, F. A. Sohel, M. Bennamoun, M. Lu, and J. Wan, “Rotational projection statistics for 3d local surface description and object recognition,”International Journal of Computer Vision, vol. 105, no. 1, pp. 63–86, 2013.
 
 # Function in Matlab:
 
