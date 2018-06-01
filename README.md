@@ -13,7 +13,7 @@ In this paper, we propose a cylinder rotational projection statistics feature (C
 
 [2]Y. Guo, F. A. Sohel, M. Bennamoun, M. Lu, and J. Wan, “Rotational projection statistics for 3d local surface description and object recognition,”International Journal of Computer Vision, vol. 105, no. 1, pp. 63–86, 2013.
 
-Function in Matlab:
+# Function in Matlab:
 
 	MainTest.m		-	Localizaton demo
 
