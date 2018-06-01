@@ -16,7 +16,7 @@ In this paper, we propose a cylinder rotational projection statistics feature (C
 
 > MainTest.m		-	Localizaton demo
 
-> GrdSegmentFun.m		-	Ground segmentation of Lidar data
+> GrdSegmentFun.m	-	Ground segmentation of Lidar data, which in https://github.com/DrGabor/LiDAR
 
 > RecoCylinderFun.m	-	Cy-RoPS function
 	
