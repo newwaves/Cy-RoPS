@@ -14,7 +14,7 @@ In this paper, we propose a cylinder rotational projection statistics feature (C
 
 # Function in Matlab:
 
-	MainTest.m		-	Localizaton demo
+· MainTest.m		-	Localizaton demo
 
 	GrdSegmentFun.m		-	Ground segmentation of Lidar data
 
